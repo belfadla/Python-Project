@@ -1,0 +1,44 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - bot_challenge
+  - gratitude
+  - describe_symptoms
+entities:
+  - symptom
+slots:
+  symptom:
+    type: list
+
+responses:
+  utter_greet:
+  - text: "Bonjour, je suis un robot de diagnostic des symptômes. Quels sont tes symptômes?"
+  #- text: "Bonjour, je suis un robot de diagnostic des symptômes. Quels sont tes symptômes??"
+
+
+  utter_happy:
+  - text: "Super, carry on!"
+  
+  utter_goodbye:
+  - text: "Au revoir"
+
+  utter_iamabot:
+  - text: "je suis un Intervenant automatisé de diagnostic des symptômes."
+  utter_no_problem:
+  - text: "Pas probleme!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+actions:
+  - utter_greet
+  - utter_malade
+  - utter_goodbye
+  - utter_iamabot
+  - utter_no_problem
+  - action_diagnose_symptoms
+  

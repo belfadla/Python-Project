@@ -1,0 +1,7 @@
+rasa run -m models --enable-api --cors "*" --debug
+
+
+pip install google-auth prompt-toolkit questionary==1.5.0 urllib3
+
+
+pip install questionary==1.5.0

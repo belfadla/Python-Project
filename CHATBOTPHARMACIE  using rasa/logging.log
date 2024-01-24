@@ -1,0 +1,998 @@
+13:05:55,773 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:05:55,773 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:05:55,773 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:37:55,688 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:37:55,689 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:37:55,689 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:41:33,609 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:41:33,610 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:41:33,610 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+14:00:00,778 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+14:00:00,778 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+14:00:00,778 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+14:24:15,746 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+14:24:15,746 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+14:24:15,746 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+14:34:39,280 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+14:34:39,281 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+14:34:39,281 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+14:36:04,139 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:36:04,139 root INFO Encoding symptom fatigue
+14:36:04,204 root INFO Flagged 1 potential symptom matches
+14:36:04,208 root INFO Diagnosing user with vitamine C 1000 mg
+14:36:04,208 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:36:31,149 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:36:31,149 root INFO Encoding symptom maux de tete
+14:36:31,212 root INFO Flagged 1 potential symptom matches
+14:36:31,214 root INFO Diagnosing user with Doliprane 500 mg
+14:36:31,214 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:37:04,504 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:37:04,504 root INFO Encoding symptom angines
+14:37:04,516 root INFO Flagged 1 potential symptom matches
+14:37:04,517 root INFO Diagnosing user with Floxam 500 mg / B12 cmp
+14:37:04,517 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:38:14,616 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:38:14,616 root INFO Encoding symptom fatigue
+14:38:14,629 root INFO Flagged 1 potential symptom matches
+14:38:14,631 root INFO Diagnosing user with vitamine C 1000 mg
+14:38:14,632 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:39:18,662 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:39:18,663 root INFO Encoding symptom fatigue
+14:39:18,680 root INFO Encoding symptom diarrhée
+14:39:18,702 root INFO Flagged 1 potential symptom matches
+14:39:18,706 root INFO Flagged 1 potential symptom matches
+14:39:18,710 root INFO Diagnosing user with vitamine C 1000 mg
+14:39:18,710 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:39:55,777 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:39:55,778 root INFO Encoding symptom diarrhée
+14:39:55,802 root INFO Flagged 1 potential symptom matches
+14:39:55,805 root INFO Diagnosing user with Cotrim fort 800 mg
+14:39:55,806 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:42:05,345 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:42:05,346 root INFO Encoding symptom diarrhée
+14:42:05,363 root INFO Encoding symptom angines
+14:42:05,377 root INFO Encoding symptom maux de tete
+14:42:05,392 root INFO Encoding symptom angines
+14:42:05,411 root INFO Flagged 1 potential symptom matches
+14:42:05,414 root INFO Flagged 1 potential symptom matches
+14:42:05,417 root INFO Flagged 1 potential symptom matches
+14:42:05,421 root INFO Flagged 1 potential symptom matches
+14:42:05,424 root INFO Diagnosing user with Doliprane 500 mg
+14:42:05,424 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:42:24,957 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:42:24,957 root INFO Encoding symptom diarrhée
+14:42:24,966 root INFO Encoding symptom angines
+14:42:24,976 root INFO Encoding symptom maux de tete
+14:42:24,987 root INFO Encoding symptom angines
+14:42:25,0 root INFO Flagged 1 potential symptom matches
+14:42:25,4 root INFO Flagged 1 potential symptom matches
+14:42:25,7 root INFO Flagged 1 potential symptom matches
+14:42:25,10 root INFO Flagged 1 potential symptom matches
+14:42:25,12 root INFO Diagnosing user with Doliprane 500 mg
+14:42:25,12 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:42:44,832 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:42:44,832 root INFO Encoding symptom diarrhée
+14:42:44,847 root INFO Encoding symptom angines
+14:42:44,861 root INFO Encoding symptom maux de tete
+14:42:44,869 root INFO Flagged 1 potential symptom matches
+14:42:44,870 root INFO Flagged 1 potential symptom matches
+14:42:44,871 root INFO Flagged 1 potential symptom matches
+14:42:44,873 root INFO Diagnosing user with Doliprane 500 mg
+14:42:44,873 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:43:04,108 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:43:04,108 root INFO Encoding symptom diarrhée
+14:43:04,125 root INFO Encoding symptom angines
+14:43:04,143 root INFO Flagged 1 potential symptom matches
+14:43:04,147 root INFO Flagged 1 potential symptom matches
+14:43:04,150 root INFO Diagnosing user with Cotrim fort 800 mg
+14:43:04,151 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:43:21,988 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:43:21,988 root INFO Encoding symptom diarrhée
+14:43:22,5 root INFO Encoding symptom angines
+14:43:22,28 root INFO Flagged 1 potential symptom matches
+14:43:22,33 root INFO Flagged 1 potential symptom matches
+14:43:22,38 root INFO Diagnosing user with Cotrim fort 800 mg
+14:43:22,38 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+14:43:36,262 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+14:43:36,263 root INFO Encoding symptom diarrhée,angines
+14:43:36,288 root INFO Flagged 2 potential symptom matches
+14:43:36,290 root INFO Diagnosing user with Cotrim fort 800 mg
+14:43:36,290 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+15:54:05,381 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+15:54:05,384 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+15:54:05,385 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:10:12,510 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:10:12,513 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:10:12,513 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:25:23,711 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:25:23,712 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:25:23,712 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:37:52,408 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:37:52,409 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:37:52,409 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:39:26,807 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:39:26,808 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:39:26,808 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:42:27,852 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:42:27,853 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:42:27,853 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:48:00,594 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:48:00,594 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+20:48:00,594 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:48:44,572 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:51:02,196 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:51:02,197 root INFO Encoding symptom fatigue
+20:51:02,256 root INFO Flagged 1 potential symptom matches
+20:51:02,260 root INFO Diagnosing user with vitamine C 1000 mg
+20:51:02,260 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:51:58,759 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:51:58,760 root INFO Encoding symptom fatigue
+20:51:58,787 root INFO Flagged 1 potential symptom matches
+20:51:58,792 root INFO Diagnosing user with vitamine C 1000 mg
+20:51:58,792 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:52:16,653 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:52:16,653 root INFO Encoding symptom fatigue
+20:52:16,678 root INFO Flagged 1 potential symptom matches
+20:52:16,683 root INFO Diagnosing user with vitamine C 1000 mg
+20:52:16,683 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:02:30,638 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+21:02:30,639 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+21:02:30,639 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+21:51:48,528 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:51:48,529 root INFO Encoding symptom fatigue
+21:51:48,634 root INFO Flagged 1 potential symptom matches
+21:51:48,642 root INFO Diagnostic utilisateur avec vitamine C 1000 mg
+21:51:48,643 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:52:08,420 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:52:08,420 root INFO Encoding symptom fatiguee
+21:52:08,451 root INFO Flagged 1 potential symptom matches
+21:52:08,454 root INFO Diagnostic utilisateur avec vitamine C 1000 mg
+21:52:08,454 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:52:29,606 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:52:29,606 root INFO Encoding symptom fatigueeeeeeee
+21:52:29,644 root INFO Flagged 0 potential symptom matches
+21:52:29,656 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Doliprane 500 mg at 0.0
+21:52:29,656 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:57:01,616 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:57:01,617 root INFO Encoding symptom fatigue
+10:57:01,654 root INFO Flagged 1 potential symptom matches
+10:57:01,658 root INFO Diagnostic utilisateur avec vitamine C 1000 mg
+10:57:01,658 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+11:07:17,795 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+11:07:17,796 root INFO Encoding symptom fatigue
+11:07:17,817 root INFO Flagged 1 potential symptom matches
+11:07:17,821 root INFO Diagnostic utilisateur avec vitamine C 1000 mg
+11:07:17,821 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+13:18:10,574 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:18:10,576 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:18:10,576 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:31:40,386 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:31:40,387 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:31:40,387 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:32:17,183 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+13:32:17,184 root INFO Encoding symptom Diarrhée
+13:32:17,223 root INFO Flagged 2 potential symptom matches
+13:32:17,229 root INFO Diagnostic utilisateur avec AD 100mg Capsule
+13:32:17,229 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:02:06,94 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:02:06,95 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+19:02:06,95 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+19:02:45,320 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:02:45,321 root INFO Encoding symptom crampes abdominales
+19:02:45,358 root INFO Flagged 11 potential symptom matches
+19:02:45,368 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.30151134457776363
+19:02:45,368 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:05:56,390 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:05:56,390 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+19:05:56,390 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+19:07:08,471 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:07:08,472 root INFO Encoding symptom Diarrhée
+19:07:08,485 root INFO Flagged 2 potential symptom matches
+19:07:08,487 root INFO Diagnostic utilisateur avec AD 100mg Capsule
+19:07:08,487 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:07:57,826 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:07:57,826 root INFO Encoding symptom Diarrhée
+19:07:57,843 root INFO Encoding symptom Infections fongiques
+19:07:57,859 root INFO Encoding symptom Leishmaniasis
+19:07:57,869 root INFO Flagged 2 potential symptom matches
+19:07:57,872 root INFO Flagged 13 potential symptom matches
+19:07:57,875 root INFO Flagged 0 potential symptom matches
+19:07:57,878 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2581988897471611
+19:07:57,878 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:08:08,855 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:08:08,856 root INFO Encoding symptom Infections fongiques
+19:08:08,864 root INFO Encoding symptom Leishmaniasis
+19:08:08,873 root INFO Flagged 13 potential symptom matches
+19:08:08,875 root INFO Flagged 0 potential symptom matches
+19:08:08,877 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2773500981126146
+19:08:08,877 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:08:20,33 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:08:20,33 root INFO Encoding symptom Infections fongiques
+19:08:20,44 root INFO Flagged 13 potential symptom matches
+19:08:20,47 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2773500981126146
+19:08:20,47 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:08:40,389 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:08:40,390 root INFO Encoding symptom La douleur musculaire
+19:08:40,407 root INFO Flagged 3 potential symptom matches
+19:08:40,410 root INFO Diagnostic utilisateur avec Alex sirop Sugar Free
+19:08:40,410 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:31:24,844 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:31:24,854 root INFO Encoding symptom infections parasites
+10:31:25,176 root INFO Flagged 13 potential symptom matches
+10:31:25,203 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2773500981126146
+10:31:25,204 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:32:13,220 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:32:13,221 root INFO Encoding symptom les yeux secs
+10:32:13,321 root INFO Flagged 2 potential symptom matches
+10:32:13,324 root INFO Diagnostic utilisateur avec Air 120 comprimé
+10:32:13,324 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:32:27,324 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:32:27,325 root INFO Encoding symptom les yeux secs
+10:32:27,341 root INFO Flagged 2 potential symptom matches
+10:32:27,346 root INFO Diagnostic utilisateur avec Air 120 comprimé
+10:32:27,346 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:33:01,777 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:33:01,777 root INFO Encoding symptom la douleur musculaire
+10:33:01,833 root INFO Flagged 3 potential symptom matches
+10:33:01,835 root INFO Diagnostic utilisateur avec Alex sirop Sugar Free
+10:33:01,836 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:34:01,721 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:34:01,721 root INFO Encoding symptom anxiété
+10:34:01,765 root INFO Flagged 2 potential symptom matches
+10:34:01,771 root INFO Diagnostic utilisateur avec Asthalin sirop
+10:34:01,772 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:34:48,763 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:34:48,763 root INFO Encoding symptom infections par virus herpes simplex
+10:34:48,866 root INFO Flagged 9 potential symptom matches
+10:34:48,874 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était ATM 100 Oral Suspension at 0.3333333333333333
+10:34:48,875 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:35:22,871 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:35:22,871 root INFO Encoding symptom infections parasites
+10:35:22,894 root INFO Flagged 13 potential symptom matches
+10:35:22,899 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2773500981126146
+10:35:22,901 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+10:35:50,501 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+10:35:50,502 root INFO Encoding symptom diarrhée
+10:35:50,533 root INFO Flagged 2 potential symptom matches
+10:35:50,537 root INFO Diagnostic utilisateur avec AD 100mg Capsule
+10:35:50,537 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:36:49,258 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:36:49,258 root INFO Encoding symptom diarrhée
+17:36:49,426 root INFO Flagged 2 potential symptom matches
+17:36:49,430 root INFO Diagnostic utilisateur avec AD 100mg Capsule
+17:36:49,430 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:37:13,623 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:37:13,623 root INFO Encoding symptom tete
+17:37:13,670 root INFO Flagged 0 potential symptom matches
+17:37:13,678 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.0
+17:37:13,679 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:47:18,206 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:47:18,206 root INFO Encoding symptom carence en vitamine a
+17:47:18,396 root INFO Flagged 0 potential symptom matches
+17:47:18,407 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.0
+17:47:18,409 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:54:01,934 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:54:01,936 root INFO Encoding symptom carence en vitamine a
+17:54:01,996 root INFO Flagged 0 potential symptom matches
+17:54:02,11 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.0
+17:54:02,12 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:58:57,95 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:58:57,96 root INFO Encoding symptom crampes abdominales
+17:58:57,228 root INFO Flagged 11 potential symptom matches
+17:58:57,241 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.30151134457776363
+17:58:57,242 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:59:37,890 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:59:37,890 root INFO Encoding symptom ulcères intestinaux
+17:59:37,948 root INFO Encoding symptom ulcères de l'estomac
+17:59:38,47 root INFO Flagged 13 potential symptom matches
+17:59:38,53 root INFO Flagged 6 potential symptom matches
+17:59:38,63 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.23570226039551587
+17:59:38,63 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+17:59:49,846 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:59:49,847 root INFO Encoding symptom ulcères intestinaux
+17:59:49,876 root INFO Flagged 13 potential symptom matches
+17:59:49,885 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2773500981126146
+17:59:49,885 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:00:12,456 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:00:12,456 root INFO Encoding symptom Infections parasites
+18:00:12,498 root INFO Flagged 13 potential symptom matches
+18:00:12,503 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.2773500981126146
+18:00:12,503 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:00:39,873 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:00:39,873 root INFO Encoding symptom Couleur
+18:00:39,900 root INFO Encoding symptom pâte
+18:00:39,930 root INFO Flagged 0 potential symptom matches
+18:00:39,933 root INFO Flagged 0 potential symptom matches
+18:00:39,938 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.0
+18:00:39,939 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:01:18,298 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:01:18,298 root INFO Encoding symptom Snez et nez pas coulé en raison des allergies
+18:01:18,544 root INFO Flagged 4 potential symptom matches
+18:01:18,554 root INFO Diagnostic utilisateur avec Abhope 50mg Injection
+18:01:18,554 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:11:44,278 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+18:11:44,305 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+18:11:44,307 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+18:11:57,404 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:11:57,409 root INFO Encoding symptom hypertension
+18:11:57,737 root INFO Flagged 9 potential symptom matches
+18:11:57,758 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.3333333333333333
+18:11:57,759 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:12:22,555 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:12:22,556 root INFO Encoding symptom hypertension
+18:12:22,574 root INFO Flagged 9 potential symptom matches
+18:12:22,579 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.3333333333333333
+18:12:22,580 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:12:36,547 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:12:36,548 root INFO Encoding symptom hypertension
+18:12:36,576 root INFO Flagged 9 potential symptom matches
+18:12:36,586 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.3333333333333333
+18:12:36,587 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:12:46,417 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:12:46,417 root INFO Encoding symptom hypertension
+18:12:46,444 root INFO Flagged 9 potential symptom matches
+18:12:46,452 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Anaspas comprimé at 0.3333333333333333
+18:12:46,452 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:13:14,43 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:13:14,43 root INFO Encoding symptom anxiété
+18:13:14,89 root INFO Flagged 2 potential symptom matches
+18:13:14,96 root INFO Diagnostic utilisateur avec Asthalin sirop
+18:13:14,97 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:14:11,428 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:14:11,428 root INFO Encoding symptom anxiété
+18:14:11,456 root INFO Flagged 2 potential symptom matches
+18:14:11,462 root INFO Diagnostic utilisateur avec Asthalin sirop
+18:14:11,462 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:42:34,110 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+18:42:34,111 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+18:42:34,111 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+18:42:57,969 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:42:57,970 root INFO Encoding symptom bronchites aiguës
+18:42:58,56 root INFO Flagged 3 potential symptom matches
+18:42:58,61 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+18:42:58,61 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:43:40,807 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:43:40,807 root INFO Encoding symptom bronchites aiguës
+18:43:40,831 root INFO Flagged 3 potential symptom matches
+18:43:40,836 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+18:43:40,836 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:43:54,716 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:43:54,717 root INFO Encoding symptom bronchites aiguës
+18:43:54,734 root INFO Flagged 3 potential symptom matches
+18:43:54,737 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+18:43:54,737 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:44:21,82 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:44:21,82 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+18:44:21,93 root INFO Encoding symptom maux de tête
+18:44:21,103 root INFO Flagged 3 potential symptom matches
+18:44:21,105 root INFO Flagged 1 potential symptom matches
+18:44:21,106 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+18:44:21,106 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:44:50,797 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:44:50,798 root INFO Encoding symptom angines](symptom
+18:44:50,816 root INFO Encoding symptom fièvre
+18:44:50,841 root INFO Flagged 0 potential symptom matches
+18:44:50,847 root INFO Flagged 1 potential symptom matches
+18:44:50,851 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+18:44:50,851 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:45:09,937 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:45:09,937 root INFO Encoding symptom fièvre
+18:45:09,947 root INFO Flagged 1 potential symptom matches
+18:45:09,948 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+18:45:09,949 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:47:58,688 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:47:58,688 root INFO Encoding symptom fièvr
+18:47:58,711 root INFO Flagged 0 potential symptom matches
+18:47:58,717 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était ACLAV 1 G / 125 MG, Sachet at 0.0
+18:47:58,717 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:49:17,105 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:49:17,105 root INFO Encoding symptom fièvre
+18:49:17,113 root INFO Flagged 1 potential symptom matches
+18:49:17,114 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+18:49:17,114 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:49:26,770 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:49:26,771 root INFO Encoding symptom fievre
+18:49:26,796 root INFO Flagged 1 potential symptom matches
+18:49:26,799 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+18:49:26,799 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+18:50:04,168 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+18:50:04,168 root INFO Encoding symptom fièvr
+18:50:04,189 root INFO Flagged 0 potential symptom matches
+18:50:04,194 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était ACLAV 1 G / 125 MG, Sachet at 0.0
+18:50:04,195 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:07:05,358 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:07:05,359 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+19:07:05,359 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+19:07:31,69 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:07:31,69 root INFO Encoding symptom fièvre](symptom
+19:07:31,156 root INFO Encoding symptom maux de tête](symptom
+19:07:31,168 root INFO Encoding symptom de
+19:07:31,174 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,183 root INFO Encoding symptom maux de tête](symptom
+19:07:31,188 root INFO Encoding symptom de
+19:07:31,191 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,199 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,204 root INFO Encoding symptom de
+19:07:31,208 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,213 root INFO Encoding symptom fièvre](symptom
+19:07:31,217 root INFO Encoding symptom de
+19:07:31,222 root INFO Encoding symptom angines](symptom
+19:07:31,227 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,232 root INFO Encoding symptom maux de tête](symptom
+19:07:31,236 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,245 root INFO Encoding symptom de
+19:07:31,249 root INFO Encoding symptom nez bouché](symptom
+19:07:31,255 root INFO Encoding symptom fièvre](symptom
+19:07:31,260 root INFO Encoding symptom nez bouché](symptom
+19:07:31,264 root INFO Encoding symptom maux de tête](symptom
+19:07:31,269 root INFO Encoding symptom fièvre](symptom
+19:07:31,274 root INFO Encoding symptom maux de tête](symptom
+19:07:31,279 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,284 root INFO Encoding symptom maux de tête](symptom
+19:07:31,288 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,293 root INFO Encoding symptom nez bouché](symptom
+19:07:31,298 root INFO Encoding symptom angines](symptom
+19:07:31,302 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,307 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,312 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,316 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,321 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,325 root INFO Encoding symptom de
+19:07:31,330 root INFO Encoding symptom angines](symptom
+19:07:31,334 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,338 root INFO Encoding symptom angines](symptom
+19:07:31,342 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,347 root INFO Encoding symptom de
+19:07:31,352 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,356 root INFO Encoding symptom maux de tête](symptom
+19:07:31,361 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,365 root INFO Encoding symptom maux de tête](symptom
+19:07:31,369 root INFO Encoding symptom maux de tête](symptom
+19:07:31,374 root INFO Encoding symptom angines](symptom
+19:07:31,378 root INFO Encoding symptom angines](symptom
+19:07:31,383 root INFO Encoding symptom maux
+19:07:31,387 root INFO Encoding symptom tête](symptom
+19:07:31,391 root INFO Encoding symptom de
+19:07:31,395 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,399 root INFO Encoding symptom fièvre](symptom
+19:07:31,403 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,408 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,414 root INFO Encoding symptom de
+19:07:31,418 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,423 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,428 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,432 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,436 root INFO Encoding symptom angines](symptom
+19:07:31,440 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,445 root INFO Encoding symptom maux
+19:07:31,450 root INFO Encoding symptom tête](symptom
+19:07:31,455 root INFO Encoding symptom angines](symptom
+19:07:31,461 root INFO Encoding symptom nez bouché](symptom
+19:07:31,466 root INFO Encoding symptom angines](symptom
+19:07:31,472 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,477 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,484 root INFO Encoding symptom angines](symptom
+19:07:31,489 root INFO Encoding symptom maux de tête](symptom
+19:07:31,495 root INFO Encoding symptom de
+19:07:31,500 root INFO Encoding symptom maux de tête](symptom
+19:07:31,504 root INFO Encoding symptom maux de tête](symptom
+19:07:31,509 root INFO Encoding symptom angines](symptom
+19:07:31,514 root INFO Encoding symptom fièvre](symptom
+19:07:31,518 root INFO Encoding symptom nez bouché](symptom
+19:07:31,523 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,528 root INFO Encoding symptom sinusites maxillaires aiguës](symptom
+19:07:31,532 root INFO Encoding symptom bronchites aiguës](symptom
+19:07:31,537 root INFO Encoding symptom de
+19:07:31,541 root INFO Encoding symptom angines](symptom
+19:07:31,546 root INFO Encoding symptom écoulement nasal clair](symptom
+19:07:31,592 root INFO Flagged 0 potential symptom matches
+19:07:31,594 root INFO Flagged 1 potential symptom matches
+19:07:31,595 root INFO Flagged 1 potential symptom matches
+19:07:31,596 root INFO Flagged 3 potential symptom matches
+19:07:31,597 root INFO Flagged 1 potential symptom matches
+19:07:31,598 root INFO Flagged 1 potential symptom matches
+19:07:31,599 root INFO Flagged 4 potential symptom matches
+19:07:31,600 root INFO Flagged 3 potential symptom matches
+19:07:31,602 root INFO Flagged 1 potential symptom matches
+19:07:31,603 root INFO Flagged 4 potential symptom matches
+19:07:31,604 root INFO Flagged 0 potential symptom matches
+19:07:31,605 root INFO Flagged 1 potential symptom matches
+19:07:31,606 root INFO Flagged 0 potential symptom matches
+19:07:31,607 root INFO Flagged 4 potential symptom matches
+19:07:31,608 root INFO Flagged 1 potential symptom matches
+19:07:31,609 root INFO Flagged 3 potential symptom matches
+19:07:31,610 root INFO Flagged 1 potential symptom matches
+19:07:31,611 root INFO Flagged 1 potential symptom matches
+19:07:31,612 root INFO Flagged 0 potential symptom matches
+19:07:31,613 root INFO Flagged 1 potential symptom matches
+19:07:31,614 root INFO Flagged 1 potential symptom matches
+19:07:31,615 root INFO Flagged 0 potential symptom matches
+19:07:31,616 root INFO Flagged 1 potential symptom matches
+19:07:31,617 root INFO Flagged 3 potential symptom matches
+19:07:31,618 root INFO Flagged 1 potential symptom matches
+19:07:31,619 root INFO Flagged 3 potential symptom matches
+19:07:31,620 root INFO Flagged 1 potential symptom matches
+19:07:31,621 root INFO Flagged 0 potential symptom matches
+19:07:31,622 root INFO Flagged 3 potential symptom matches
+19:07:31,623 root INFO Flagged 4 potential symptom matches
+19:07:31,624 root INFO Flagged 4 potential symptom matches
+19:07:31,625 root INFO Flagged 3 potential symptom matches
+19:07:31,626 root INFO Flagged 4 potential symptom matches
+19:07:31,627 root INFO Flagged 1 potential symptom matches
+19:07:31,628 root INFO Flagged 0 potential symptom matches
+19:07:31,629 root INFO Flagged 3 potential symptom matches
+19:07:31,631 root INFO Flagged 0 potential symptom matches
+19:07:31,633 root INFO Flagged 3 potential symptom matches
+19:07:31,633 root INFO Flagged 1 potential symptom matches
+19:07:31,635 root INFO Flagged 3 potential symptom matches
+19:07:31,635 root INFO Flagged 1 potential symptom matches
+19:07:31,636 root INFO Flagged 3 potential symptom matches
+19:07:31,637 root INFO Flagged 1 potential symptom matches
+19:07:31,638 root INFO Flagged 1 potential symptom matches
+19:07:31,639 root INFO Flagged 0 potential symptom matches
+19:07:31,640 root INFO Flagged 0 potential symptom matches
+19:07:31,642 root INFO Flagged 0 potential symptom matches
+19:07:31,643 root INFO Flagged 0 potential symptom matches
+19:07:31,644 root INFO Flagged 1 potential symptom matches
+19:07:31,645 root INFO Flagged 3 potential symptom matches
+19:07:31,646 root INFO Flagged 0 potential symptom matches
+19:07:31,646 root INFO Flagged 3 potential symptom matches
+19:07:31,648 root INFO Flagged 4 potential symptom matches
+19:07:31,649 root INFO Flagged 1 potential symptom matches
+19:07:31,650 root INFO Flagged 3 potential symptom matches
+19:07:31,651 root INFO Flagged 3 potential symptom matches
+19:07:31,652 root INFO Flagged 3 potential symptom matches
+19:07:31,653 root INFO Flagged 4 potential symptom matches
+19:07:31,654 root INFO Flagged 0 potential symptom matches
+19:07:31,655 root INFO Flagged 3 potential symptom matches
+19:07:31,656 root INFO Flagged 0 potential symptom matches
+19:07:31,657 root INFO Flagged 0 potential symptom matches
+19:07:31,658 root INFO Flagged 0 potential symptom matches
+19:07:31,659 root INFO Flagged 1 potential symptom matches
+19:07:31,660 root INFO Flagged 0 potential symptom matches
+19:07:31,661 root INFO Flagged 3 potential symptom matches
+19:07:31,662 root INFO Flagged 4 potential symptom matches
+19:07:31,663 root INFO Flagged 0 potential symptom matches
+19:07:31,664 root INFO Flagged 1 potential symptom matches
+19:07:31,665 root INFO Flagged 1 potential symptom matches
+19:07:31,666 root INFO Flagged 1 potential symptom matches
+19:07:31,667 root INFO Flagged 1 potential symptom matches
+19:07:31,668 root INFO Flagged 0 potential symptom matches
+19:07:31,669 root INFO Flagged 0 potential symptom matches
+19:07:31,670 root INFO Flagged 1 potential symptom matches
+19:07:31,671 root INFO Flagged 3 potential symptom matches
+19:07:31,672 root INFO Flagged 3 potential symptom matches
+19:07:31,673 root INFO Flagged 3 potential symptom matches
+19:07:31,674 root INFO Flagged 1 potential symptom matches
+19:07:31,675 root INFO Flagged 0 potential symptom matches
+19:07:31,676 root INFO Flagged 4 potential symptom matches
+19:07:31,688 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+19:07:31,688 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:07:51,373 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:07:51,374 root INFO Encoding symptom maux de tête](symptom
+19:07:51,381 root INFO Encoding symptom bronchites aiguës
+19:07:51,388 root INFO Flagged 1 potential symptom matches
+19:07:51,389 root INFO Flagged 3 potential symptom matches
+19:07:51,390 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+19:07:51,390 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:08:16,128 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:08:16,128 root INFO Encoding symptom bronchites aiguës
+19:08:16,144 root INFO Flagged 3 potential symptom matches
+19:08:16,146 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+19:08:16,147 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:08:52,101 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+19:08:52,101 root INFO Encoding symptom bronchites aiguës
+19:08:52,110 root INFO Flagged 3 potential symptom matches
+19:08:52,111 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+19:08:52,111 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+19:23:33,26 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:23:33,27 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+19:23:33,27 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+19:30:21,310 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:30:21,311 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+19:30:21,311 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+19:49:21,793 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+19:49:21,794 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+19:49:21,795 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+09:33:38,77 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:56:10,716 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+09:56:10,717 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+09:56:10,717 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+10:00:38,597 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+10:00:38,598 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+10:00:38,598 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+10:04:54,172 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+10:04:54,173 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+10:04:54,173 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+10:27:02,382 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+10:27:02,383 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+10:27:02,383 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+10:49:38,811 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+10:49:38,812 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+10:49:38,812 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+11:25:41,807 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+11:25:41,808 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+11:25:41,809 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+11:28:37,72 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+11:28:37,72 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+11:28:37,72 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+09:13:07,74 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+09:13:07,85 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+09:13:07,85 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+09:51:33,278 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+09:51:33,279 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+09:51:33,279 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+09:52:56,710 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:52:56,710 root INFO Encoding symptom maux de tête
+09:52:56,783 root INFO Flagged 1 potential symptom matches
+09:52:56,788 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+09:52:56,788 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:53:36,330 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:53:36,330 root INFO Encoding symptom maux de tête
+09:53:36,339 root INFO Flagged 1 potential symptom matches
+09:53:36,340 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+09:53:36,340 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+13:18:10,511 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:18:10,513 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:18:10,513 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:19:47,788 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:19:47,789 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:19:47,789 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:21:08,973 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:21:08,973 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:21:08,973 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:21:43,524 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:21:43,525 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:21:43,525 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:24:55,788 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:24:55,789 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:24:55,789 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:44:59,656 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+13:44:59,657 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+13:44:59,657 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+13:48:33,698 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+13:48:33,698 root INFO Encoding symptom sinusites maxillaires aiguës
+13:48:33,829 root INFO Flagged 3 potential symptom matches
+13:48:33,838 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+13:48:33,838 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+13:48:49,508 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+13:48:49,508 root INFO Encoding symptom fièvre
+13:48:49,546 root INFO Flagged 1 potential symptom matches
+13:48:49,549 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+13:48:49,550 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+13:49:09,480 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+13:49:09,480 root INFO Encoding symptom nez bouché
+13:49:09,507 root INFO Flagged 1 potential symptom matches
+13:49:09,511 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+13:49:09,511 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:40:12,908 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+09:40:12,909 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+09:40:12,909 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+09:41:58,891 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:41:58,891 root INFO Encoding symptom sinusites maxillaires aiguës
+09:41:58,966 root INFO Flagged 3 potential symptom matches
+09:41:58,970 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+09:41:58,970 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:57:53,246 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:57:53,247 root INFO Encoding symptom maux de tête
+09:57:53,272 root INFO Flagged 1 potential symptom matches
+09:57:53,273 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+09:57:53,273 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+09:58:07,983 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+09:58:07,984 root INFO Encoding symptom nez bouché
+09:58:07,992 root INFO Flagged 1 potential symptom matches
+09:58:07,993 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+09:58:07,993 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+12:18:20,558 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+12:18:20,559 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+12:18:20,560 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+12:58:58,865 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+12:58:58,867 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+12:58:58,867 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+12:59:51,555 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+12:59:51,556 root INFO Encoding symptom sinusites maxillaires aiguës
+12:59:51,710 root INFO Flagged 3 potential symptom matches
+12:59:51,722 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+12:59:51,723 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+13:10:52,110 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+13:10:52,110 root INFO Encoding symptom nez bouché
+13:10:52,136 root INFO Flagged 1 potential symptom matches
+13:10:52,138 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+13:10:52,138 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:41:27,199 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:41:27,200 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+20:41:27,200 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:43:12,848 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:43:12,848 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+20:43:12,848 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:44:13,350 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:44:13,350 root INFO Encoding symptom sinusites maxillaires aiguës
+20:44:13,378 root INFO Flagged 3 potential symptom matches
+20:44:13,379 root INFO Diagnostic utilisateur avec ACLAV 1 G / 125 MG, Sachet
+20:44:13,379 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+16:29:14,433 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+16:29:14,434 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+16:29:14,435 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+16:41:22,752 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+16:41:22,752 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+16:41:22,753 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+17:03:12,123 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+17:03:12,124 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+17:03:12,124 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+17:27:13,176 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+17:27:13,177 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+17:27:13,177 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+17:27:40,620 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+17:27:40,621 root INFO Encoding symptom maux de tête
+17:27:40,701 root INFO Flagged 1 potential symptom matches
+17:27:40,706 root INFO Diagnostic utilisateur avec RHUMIX, Sachet
+17:27:40,707 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:06:13,165 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:06:13,165 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+20:06:13,165 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:07:18,958 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:07:18,958 root INFO Encoding symptom diarrhée
+20:07:19,65 root INFO Encoding symptom fièvre
+20:07:19,66 root INFO Encoding symptom toux
+20:07:19,81 root INFO Encoding symptom fièvre
+20:07:19,120 root INFO Flagged 4 potential symptom matches
+20:07:19,122 root INFO Flagged 4 potential symptom matches
+20:07:19,122 root INFO Flagged 4 potential symptom matches
+20:07:19,122 root INFO Flagged 4 potential symptom matches
+20:07:19,129 root INFO Diagnostic utilisateur avec Covid
+20:07:19,129 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:08:24,970 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:08:24,971 root INFO Encoding symptom diarrhée
+20:08:24,973 root INFO Encoding symptom fièvre
+20:08:24,973 root INFO Encoding symptom toux
+20:08:24,973 root INFO Flagged 4 potential symptom matches
+20:08:24,973 root INFO Flagged 4 potential symptom matches
+20:08:24,989 root INFO Flagged 4 potential symptom matches
+20:08:24,989 root INFO Diagnostic utilisateur avec Covid
+20:08:24,989 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:09:21,368 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:09:21,368 root INFO Encoding symptom nausée
+20:09:21,368 root INFO Encoding symptom vomissement
+20:09:21,368 root INFO Encoding symptom crampes d'estomac
+20:09:21,384 root INFO Encoding symptom perte de lodorat ou du goût
+20:09:21,384 root INFO Flagged 1 potential symptom matches
+20:09:21,400 root INFO Flagged 1 potential symptom matches
+20:09:21,400 root INFO Flagged 1 potential symptom matches
+20:09:21,400 root INFO Flagged 1 potential symptom matches
+20:09:21,400 root INFO Diagnostic utilisateur avec intoxication alimentaire
+20:09:21,400 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:11:26,973 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:11:26,973 root INFO Encoding symptom toux
+20:11:26,979 root INFO Encoding symptom nausée
+20:11:26,986 root INFO Flagged 4 potential symptom matches
+20:11:26,988 root INFO Flagged 1 potential symptom matches
+20:11:26,989 root INFO Diagnostic utilisateur avec intoxication alimentaire
+20:11:26,989 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:31:23,730 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:31:23,730 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+20:31:23,730 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:32:03,70 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:41:29,190 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:41:29,190 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+20:41:29,190 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:41:58,151 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:41:58,151 root INFO Encoding symptom une aménorrhée
+20:41:58,288 root INFO Flagged 3 potential symptom matches
+20:41:58,294 root INFO Diagnostic utilisateur avec toux
+20:41:58,294 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:50:56,332 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+20:50:56,332 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+20:50:56,332 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+20:51:16,577 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:51:16,577 root INFO Encoding symptom maux de tête
+20:51:16,577 root INFO Flagged 2 potential symptom matches
+20:51:16,593 root INFO Diagnostic utilisateur avec toux
+20:51:16,593 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+20:52:56,383 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+20:52:56,383 root INFO Encoding symptom diarrhée
+20:52:56,399 root INFO Encoding symptom perte de lodorat ou du goût
+20:52:56,415 root INFO Flagged 5 potential symptom matches
+20:52:56,430 root INFO Flagged 2 potential symptom matches
+20:52:56,430 root INFO Diagnostic utilisateur avec Covid
+20:52:56,430 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:01:27,344 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+21:01:27,345 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+21:01:27,345 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+21:05:32,528 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:05:32,528 root INFO Encoding symptom maux de tête
+21:05:32,531 root INFO Flagged 1 potential symptom matches
+21:05:32,548 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3333333333333333
+21:05:32,548 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:05:52,762 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:05:52,762 root INFO Encoding symptom fièvre
+21:05:52,762 root INFO Flagged 5 potential symptom matches
+21:05:52,762 root INFO Diagnostic utilisateur avec Covid
+21:05:52,762 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:06:09,519 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:06:09,519 root INFO Encoding symptom maux de tête
+21:06:09,519 root INFO Flagged 1 potential symptom matches
+21:06:09,519 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3333333333333333
+21:06:09,519 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:06:27,898 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:06:27,898 root INFO Encoding symptom fatigue
+21:06:27,913 root INFO Flagged 2 potential symptom matches
+21:06:27,913 root INFO Diagnostic utilisateur avec Covid
+21:06:27,913 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:06:49,898 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:06:49,898 root INFO Encoding symptom toux
+21:06:49,914 root INFO Flagged 5 potential symptom matches
+21:06:49,924 root INFO Diagnostic utilisateur avec Covid
+21:06:49,924 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:07:38,333 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:07:38,333 root INFO Encoding symptom vomissement
+21:07:38,342 root INFO Flagged 1 potential symptom matches
+21:07:38,342 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était intoxication alimentaire at 0.3779644730092272
+21:07:38,342 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:08:02,692 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:08:02,692 root INFO Encoding symptom fatigue](symptom
+21:08:02,695 root INFO Encoding symptom crampes d'estomac
+21:08:02,711 root INFO Flagged 0 potential symptom matches
+21:08:02,711 root INFO Flagged 1 potential symptom matches
+21:08:02,711 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était intoxication alimentaire at 0.3779644730092272
+21:08:02,711 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:08:17,352 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:08:17,352 root INFO Encoding symptom fatigue
+21:08:17,352 root INFO Encoding symptom crampes d'estomac
+21:08:17,370 root INFO Flagged 2 potential symptom matches
+21:08:17,370 root INFO Flagged 1 potential symptom matches
+21:08:17,370 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3849001794597505
+21:08:17,370 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:08:39,872 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:08:39,872 root INFO Encoding symptom fatigue
+21:08:39,872 root INFO Encoding symptom crampes d'estomac
+21:08:39,888 root INFO Flagged 2 potential symptom matches
+21:08:39,888 root INFO Flagged 1 potential symptom matches
+21:08:39,888 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3849001794597505
+21:08:39,888 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:09:09,749 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:09:09,749 root INFO Encoding symptom perte de lodorat ou du goût](symptom
+21:09:09,765 root INFO Encoding symptom vomissement](symptom
+21:09:09,765 root INFO Encoding symptom fièvre](symptom
+21:09:09,765 root INFO Flagged 1 potential symptom matches
+21:09:09,765 root INFO Flagged 0 potential symptom matches
+21:09:09,781 root INFO Flagged 0 potential symptom matches
+21:09:09,781 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3333333333333333
+21:09:09,781 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:09:24,737 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:09:24,738 root INFO Encoding symptom fièvre](symptom
+21:09:24,743 root INFO Encoding symptom toux](symptom
+21:09:24,746 root INFO Encoding symptom perte de lodorat ou du goût](symptom
+21:09:24,746 root INFO Flagged 0 potential symptom matches
+21:09:24,746 root INFO Flagged 0 potential symptom matches
+21:09:24,746 root INFO Flagged 1 potential symptom matches
+21:09:24,746 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3333333333333333
+21:09:24,746 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:10:22,531 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:10:22,531 root INFO Encoding symptom courbatures
+21:10:22,544 root INFO Flagged 3 potential symptom matches
+21:10:22,546 root INFO Impossible de trouver un diagnostic, la correspondance la plus proche était Covid at 0.3849001794597505
+21:10:22,546 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:18:08,346 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+21:18:08,346 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+21:18:08,346 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+21:18:46,116 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:18:46,116 root INFO Encoding symptom toux
+21:18:46,116 root INFO Flagged 4 potential symptom matches
+21:18:46,132 root INFO Diagnostic utilisateur avec Covid
+21:18:46,132 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:19:00,433 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:19:00,433 root INFO Encoding symptom diarrhée
+21:19:00,449 root INFO Flagged 4 potential symptom matches
+21:19:00,449 root INFO Diagnostic utilisateur avec Covid
+21:19:00,449 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+21:20:31,59 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+21:20:31,59 root INFO Encoding symptom nausée](symptom
+21:20:31,77 root INFO Encoding symptom crampes d'estomac
+21:20:31,92 root INFO Flagged 0 potential symptom matches
+21:20:31,97 root INFO Flagged 1 potential symptom matches
+21:20:31,98 root INFO Diagnostic utilisateur avec intoxication alimentaire
+21:20:31,98 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+07:15:13,339 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+07:15:13,347 root INFO Encoding symptom fièvre](symptom
+07:15:13,427 root INFO Encoding symptom perte de lodorat ou du goût
+07:15:13,459 root INFO Flagged 0 potential symptom matches
+07:15:13,459 root INFO Flagged 1 potential symptom matches
+07:15:13,467 root INFO Diagnostic utilisateur avec Covid
+07:15:13,467 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+07:30:23,925 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+07:30:23,929 root INFO Encoding symptom fièvre
+07:30:24,18 root INFO Encoding symptom perte de l’odorat ou du goût
+07:30:24,95 root INFO Flagged 4 potential symptom matches
+07:30:24,99 root INFO Flagged 1 potential symptom matches
+07:30:24,107 root INFO Diagnostic utilisateur avec Covid
+07:30:24,107 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+07:34:26,939 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+07:34:26,939 root INFO Encoding symptom perte de lodorat ou du goût
+07:34:26,974 root INFO Flagged 1 potential symptom matches
+07:34:26,995 root INFO Diagnostic utilisateur avec Covid
+07:34:26,996 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:38:08,571 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:38:08,585 root INFO Encoding symptom perte de lodorat ou du goût
+08:38:08,744 root INFO Flagged 1 potential symptom matches
+08:38:08,750 root INFO Diagnostic utilisateur avec Covid
+08:38:08,750 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:39:50,666 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:39:50,666 root INFO Encoding symptom vomissement
+08:39:50,695 root INFO Flagged 1 potential symptom matches
+08:39:50,695 root INFO Diagnostic utilisateur avec intoxication alimentaire
+08:39:50,695 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:41:04,805 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:41:04,805 root INFO Encoding symptom fièvre
+08:41:04,842 root INFO Flagged 4 potential symptom matches
+08:41:04,858 root INFO Diagnostic utilisateur avec Covid
+08:41:04,858 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:41:39,501 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:41:39,501 root INFO Encoding symptom diarrhée
+08:41:39,532 root INFO Flagged 4 potential symptom matches
+08:41:39,548 root INFO Diagnostic utilisateur avec Covid
+08:41:39,549 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:42:37,307 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:42:37,307 root INFO Encoding symptom crampes d'estomac
+08:42:37,368 root INFO Flagged 1 potential symptom matches
+08:42:37,370 root INFO Diagnostic utilisateur avec intoxication alimentaire
+08:42:37,370 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:43:04,182 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:43:04,182 root INFO Encoding symptom diarrhée
+08:43:04,205 root INFO Flagged 4 potential symptom matches
+08:43:04,205 root INFO Diagnostic utilisateur avec Covid
+08:43:04,205 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:43:45,791 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:43:45,791 root INFO Encoding symptom nausée
+08:43:45,813 root INFO Encoding symptom fièvre
+08:43:45,828 root INFO Flagged 1 potential symptom matches
+08:43:45,830 root INFO Flagged 4 potential symptom matches
+08:43:45,831 root INFO Diagnostic utilisateur avec intoxication alimentaire
+08:43:45,831 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:44:29,184 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:44:29,192 root INFO Encoding symptom fievre
+08:44:29,211 root INFO Encoding symptom nausee
+08:44:29,224 root INFO Flagged 4 potential symptom matches
+08:44:29,224 root INFO Flagged 1 potential symptom matches
+08:44:29,224 root INFO Diagnostic utilisateur avec intoxication alimentaire
+08:44:29,224 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:45:55,347 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:45:55,350 root INFO Encoding symptom toux
+08:45:55,406 root INFO Encoding symptom nausée
+08:45:55,433 root INFO Encoding symptom fièvre
+08:45:55,577 root INFO Encoding symptom vomissement
+08:45:55,588 root INFO Flagged 4 potential symptom matches
+08:45:55,589 root INFO Flagged 1 potential symptom matches
+08:45:55,591 root INFO Flagged 4 potential symptom matches
+08:45:55,592 root INFO Flagged 1 potential symptom matches
+08:45:55,594 root INFO Diagnostic utilisateur avec intoxication alimentaire
+08:45:55,594 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+12:25:22,388 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+12:25:22,388 root INFO Encoding symptom perte de lodorat ou du goût
+12:25:22,468 root INFO Flagged 1 potential symptom matches
+12:25:22,468 root INFO Diagnostic utilisateur avec Covid
+12:25:22,468 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+12:25:54,257 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+12:25:54,257 root INFO Encoding symptom toux
+12:25:54,275 root INFO Encoding symptom nausée
+12:25:54,297 root INFO Encoding symptom fièvre
+12:25:54,315 root INFO Encoding symptom vomissement
+12:25:54,337 root INFO Flagged 4 potential symptom matches
+12:25:54,340 root INFO Flagged 1 potential symptom matches
+12:25:54,344 root INFO Flagged 4 potential symptom matches
+12:25:54,344 root INFO Flagged 1 potential symptom matches
+12:25:54,350 root INFO Diagnostic utilisateur avec intoxication alimentaire
+12:25:54,351 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
+08:26:56,146 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+08:26:56,148 rasa_sdk.endpoint INFO Action endpoint is up and running on http://localhost:5055
+08:26:56,148 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
+08:27:21,671 rasa_sdk.executor DEBUG Received request to run 'action_diagnose_symptoms'
+08:27:21,671 root INFO Encoding symptom toux
+08:27:21,743 root INFO Encoding symptom nausée
+08:27:21,763 root INFO Encoding symptom fièvre
+08:27:21,779 root INFO Encoding symptom vomissement
+08:27:21,840 root INFO Flagged 4 potential symptom matches
+08:27:21,841 root INFO Flagged 1 potential symptom matches
+08:27:21,841 root INFO Flagged 4 potential symptom matches
+08:27:21,841 root INFO Flagged 1 potential symptom matches
+08:27:21,859 root INFO Diagnostic utilisateur avec intoxication alimentaire
+08:27:21,859 rasa_sdk.executor DEBUG Finished running 'action_diagnose_symptoms'
